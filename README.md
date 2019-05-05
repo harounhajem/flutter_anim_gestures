@@ -1,17 +1,5 @@
-# flutter_anim_gestures
+# Flutter Animations and Gestures
 
-A new Flutter project.
+A new project to explore animations and gestures.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
-"# flutter_anim_gestures" 
+![animations](https://cdn-images-1.medium.com/max/1200/1*W0fevN0eyzSgZNHogUw0Lg.png)
